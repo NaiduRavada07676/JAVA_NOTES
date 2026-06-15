@@ -1,4 +1,4 @@
-package poly;
+package polymorphism;
 
 
 public class Client {
